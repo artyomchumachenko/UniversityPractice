@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Введите текст:");
+        System.out.println("Введите текст на английском языке:");
         String text = scanner.nextLine();
         String[] offers = text.split("\\.");
 
